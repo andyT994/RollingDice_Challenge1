@@ -1,0 +1,15 @@
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/bin/Debug/net5.0/Challenge 1.deps.json
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/bin/Debug/net5.0/Challenge 1.runtimeconfig.json
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/bin/Debug/net5.0/Challenge 1.runtimeconfig.dev.json
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/bin/Debug/net5.0/Challenge 1.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/bin/Debug/net5.0/ref/Challenge 1.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/bin/Debug/net5.0/Challenge 1.pdb
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.csprojAssemblyReference.cache
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.AssemblyInfoInputs.cache
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.AssemblyInfo.cs
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.csproj.CoreCompileInputs.cache
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/ref/Challenge 1.dll
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.pdb
+/Users/andywindy/OneDrive - Swinburne University/Intro to OO Programming_AnhN/Challenge 1_DiceRollingStimulator/obj/Debug/net5.0/Challenge 1.genruntimeconfig.cache
